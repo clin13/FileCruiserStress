@@ -1,15 +1,16 @@
 # FileCruiserStress
 
-**
-**  2014-2015 PROMISE Technology, Inc. All Rights Reserved.
-**
-**  FileCruiser stress tool v1.0
-**
-**  Author:       Jack Lin
-**  Date:         Aug 25, 2015
-**  Filecruiser:  VA (1.01.0000.73 or older)
-**                VR (1.01.0001.78 or older)
-**
+>  2014-2015 PROMISE Technology, Inc. All Rights Reserved.
+
+>  FileCruiser stress tool v1.0
+
+>  Author:       Jack Lin
+>  Date:         Aug 25, 2015
+>  
+>  Filecruiser:  
+>> 1. VA (1.01.0000.73 or older)
+>> 2. VR (1.01.0001.78 or older)
+
 
 --------------------------
       Description
